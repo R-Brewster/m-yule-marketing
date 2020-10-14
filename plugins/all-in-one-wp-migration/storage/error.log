@@ -1,0 +1,12 @@
+Oct 14 2020 04:52:17
+{"type":2,"message":"stream_socket_client(): unable to connect to tcp:\/\/127.0.0.1:6379 (Connection refused)","file":"\/app\/public\/wp-content\/mu-plugins\/wp-nc-easywp\/plugin\/Http\/Redis\/includes\/predis.php","line":4688}
+
+Oct 14 2020 04:52:19
+{"type":2,"message":"stream_socket_client(): unable to connect to tcp:\/\/127.0.0.1:6379 (Connection refused)","file":"\/app\/public\/wp-content\/mu-plugins\/wp-nc-easywp\/plugin\/Http\/Redis\/includes\/predis.php","line":4688}
+
+Oct 14 2020 04:52:40
+{"type":2,"message":"stream_socket_client(): unable to connect to tcp:\/\/127.0.0.1:6379 (Connection refused)","file":"\/app\/public\/wp-content\/mu-plugins\/wp-nc-easywp\/plugin\/Http\/Redis\/includes\/predis.php","line":4688}
+
+Oct 14 2020 04:52:40
+{"type":2,"message":"stream_socket_client(): unable to connect to tcp:\/\/127.0.0.1:6379 (Connection refused)","file":"\/app\/public\/wp-content\/mu-plugins\/wp-nc-easywp\/plugin\/Http\/Redis\/includes\/predis.php","line":4688}
+
